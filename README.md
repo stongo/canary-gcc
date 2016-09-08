@@ -1,3 +1,3 @@
-# Database Canary
+# Database GCC 
 
-Use this to test database installations in new container builds
+Use this to test gcc installation in new container builds
